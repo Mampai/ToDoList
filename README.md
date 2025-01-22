@@ -38,7 +38,7 @@ A simple task manager application built using **Node.js**, **Express.js**, and *
 
 ## Project Structure
 
-```plaintext
+```
 .
 ├── public/
 │   └── index.html       # Frontend UI
@@ -48,7 +48,8 @@ A simple task manager application built using **Node.js**, **Express.js**, and *
 ├── todos.json           # JSON file storing tasks
 └── README.md            # Project documentation
 
-Prerequisites
+##** Prerequisites**
+
 Ensure the following tools are installed:
 
 Node.js
