@@ -39,13 +39,13 @@ A simple task manager application built using **Node.js**, **Express.js**, and *
 ## Project Structure
 
 ```
-</dl>
+<dl>
    <dl>
 <li>Public/</li>
 - **index.html**:        Frontend UI
-- **script.js**:       #JavaScript for client-side logic
+- **script.js**:        JavaScript for client-side logic
  </dl>
-   <dl>
+</dl>
 ├── tasks.js             # Module handling task operations (CRUD)
 ├── server.js            # Backend server
 ├── todos.json           # JSON file storing tasks
