@@ -10,7 +10,7 @@ https://todolist-n8uv.onrender.com/
    <dl>
     </dl>
    <dl>
-<li>src/</li>
+<li>src</li>
 <dd> app.js</dd>
 <dd> server.js</dd>
 <dd> tasks.js</dd>
@@ -39,8 +39,7 @@ A simple task manager application built using **Node.js**, **Express.js**, and *
 ## Project Structure
 
 ```
-.
-├── public/
+<li>Public/</li>
 │   └── index.html       # Frontend UI
 │   └── script.js        # JavaScript for client-side logic
 ├── tasks.js             # Module handling task operations (CRUD)
