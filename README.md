@@ -1,21 +1,24 @@
- <h1>Mampai Rantsi Link to my To do list</h1>
-https://todolist-n8uv.onrender.com/
-
+ <h1>Mampai Rantsi Link  To do list</h1>
 <h2>Deployment Link # ToDoList</h2>
+https://todolist-n8uv.onrender.com/
 <h2>To-do-list-app Structure</h2>
 </dl>
    <dl>
 <li>Public</li>
-index.html<dd> index.html</dd>
+<dd> index.html</dd>
      </dl>
    <dl>
-├── src/
-│   ├── app.js
-│   ├── server.js
-│   └── tasks.js
-├── .gitignore
-├── package.json
-└── vercel.json
+    </dl>
+   <dl>
+<li>src/</li>
+<dd> app.js</dd>
+<dd> server.js</dd>
+<dd> tasks.js</dd>
+     </dl>
+   <dl>
+<li>.gitigno</li>
+<li>package.json</li>
+<li>vercel.json</li>
 
 
 # Task Manager Application
