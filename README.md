@@ -101,8 +101,6 @@ Migrate storage to a database (e.g., MongoDB, PostgreSQL).
 Enhance UI/UX with a modern frontend framework like React.
 Add unit tests for both client-side and server-side code.
 
-Author
 
-You can customize the placeholder details (e.g., "Your Name," GitHub repository URL) as needed. Let me know if you'd like further modifications! 😊
 
 
